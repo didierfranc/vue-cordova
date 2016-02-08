@@ -13,8 +13,8 @@ You like ***Vue.js*** framework and you're making mobile app with ***Cordova*** 
 
 ```
 - App
-    - index.html
-    - vue
-        - app.css
-        - app.js
+  - index.html
+  - vue
+    - app.css
+    - app.js
 ```
