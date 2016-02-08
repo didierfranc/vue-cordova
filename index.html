@@ -12,9 +12,9 @@
 document.addEventListener("deviceready", onDeviceReady)
 
 function onDeviceReady() {
-  StatusBar.backgroundColorByHexString("#4A90E2")
-  StatusBar.styleLightContent()
-
+  
+  // Cordova and Cordova plugins are ready 
+  // Then we load Vue app.js
   var request = new XMLHttpRequest()
   request.open('GET', 'vue/app.js', true)
 
