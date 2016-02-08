@@ -9,7 +9,7 @@ You like ***Vue.js*** framework and you're making mobile app with ***Cordova*** 
 2. Compile your app with `npm run build` you'll get `app.css` and `app.js`
 3. Copy that two files in the `vue` folder and `cordova run`
 
-## Tree
+## Base tree
 
 ```
 - App
